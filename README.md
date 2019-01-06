@@ -1,5 +1,7 @@
+# This is first pcirute 
 ![](https://github.com/volodymyr1213/Launch-an-EC2-Instance/blob/master/pictures/Screen%20Shot%202019-01-06%20at%2016.49.32.png)
 
+<<<<<<< HEAD
 ![](https://github.com/volodymyr1213/Launch-an-EC2-Instance/blob/master/pictures/Screen%20Shot%202019-01-06%20at%2016.49.56.png)
 
 ![](https://github.com/volodymyr1213/Launch-an-EC2-Instance/blob/master/pictures/Screen%20Shot%202019-01-06%20at%2016.50.18.png)
@@ -17,4 +19,8 @@
 ![](https://github.com/volodymyr1213/Launch-an-EC2-Instance/blob/master/pictures/Screen%20Shot%202019-01-06%20at%2016.51.48.png)
 
 ![](https://github.com/volodymyr1213/Launch-an-EC2-Instance/blob/master/pictures/Screen%20Shot%202019-01-06%20at%2016.52.03.png)
+=======
+
+# This second picture
+>>>>>>> 545aa3fd2f385dc10ae8e2178ba1c0547f633faa
 ![](https://github.com/volodymyr1213/Launch-an-EC2-Instance/blob/master/pictures/Screen%20Shot%202019-01-06%20at%2016.49.32.png)
